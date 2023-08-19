@@ -1,5 +1,5 @@
 ---
-permalink: /brenda_zambrano
+permalink: /
 title: "Hello there! Thanks for visiting my website, feel free to reach out!"
 excerpt: "About me"
 author_profile: true

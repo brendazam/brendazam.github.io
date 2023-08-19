@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-##Hello there! Thanks for visiting my website, feel free to reach out!##
+Hello there! Thanks for visiting my website, feel free to reach out!
+======
 
 I am a researcher and marketer with a master's degree in E-Business and Innovation from Lancaster University, where I specialized in creating innovative solutions that improve information systems and enhance the customer experience. I have experience in healthcare research and entrepreneurial ventures, where I developed a proven track record of success in driving growth and delivering results.
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there! Thanks for visiting my website, feel free to reach out!"
+title: "😃Hello there! Thanks for visiting my website, feel free to reach out!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

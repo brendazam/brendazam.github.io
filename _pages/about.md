@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+##Hello there! Thanks for visiting my website, feel free to reach out!##
+
 I am a researcher and marketer with a master's degree in E-Business and Innovation from Lancaster University, where I specialized in creating innovative solutions that improve information systems and enhance the customer experience. I have experience in healthcare research and entrepreneurial ventures, where I developed a proven track record of success in driving growth and delivering results.
 
 As a researcher at Lancaster University, I worked on the project Phoenix Takes Flight, exploring usability and scalability challenges with community-based health support via social prescribing. I focused on social prescribing, information systems, and social inequality, using cutting-edge technologies and methodologies to conduct data analysis and generate insights. As a marketing manager at Newtown Science Festival, I was in charge of all the marketing for the festival, including strategy, copywriting, design, and photography. I created and implemented effective digital marketing campaigns that reached and engaged different audiences, increasing the attendance and awareness of the festival. I also contributed to securing funding and partnerships for the project, demonstrating my communication and negotiation skills.

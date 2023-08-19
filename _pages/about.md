@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-![image of festival](/images/science_fest.jpg){: .align-right widht="300px"}
+![image of festival](/images/science_fest.jpg){: .align-right width="300px"}
 📊 I'm an E-Business Analyst with a master's degree in E-Business and Innovation from Lancaster University, where I specialized in creating innovative solutions that improve information systems and enhance the customer experience.
 
-As a researcher at Lancaster University, I worked on the project Phoenix Takes Flight, exploring usability and scalability challenges with community-based health support via social prescribing. I focused on social prescribing, information systems, and social inequality, using cutting-edge technologies and methodologies to conduct data analysis and generate insights. 
+As a researcher at Lancaster University, I worked on the project Phoenix Takes Flight, exploring usability and scalability challenges with community-based health support via social prescribing. I focused on social prescribing, information systems, and social inequality, using cutting-edge technologies and methodologies to conduct data analysis and generate insights.
 
 As a marketing manager at Newtown Science Festival, I was in charge of all the marketing for the festival, including strategy, copywriting, design, and photography. I created and implemented effective digital marketing campaigns that reached and engaged different audiences, increasing the attendance and awareness of the festival.
 

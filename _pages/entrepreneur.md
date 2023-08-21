@@ -27,4 +27,10 @@ I've always consider myself a community person, a leader, someone destined to gu
 We did Open Hack Nights as a first step for every entrepreneur to show up and join the community, hosting most of the events in different universities in Puebla City who would join and invite their students to present their ideas, do some networking and chill with pizza 🍕 and drinks. We kept it going for almost 3 years, from 2015 to 2017, expanding to 3 different cities in Mexico and having more than 500 people in our community 📣. 
 
 
+Evolution of DevBranding to Setih
+------
+
+
+
+
 

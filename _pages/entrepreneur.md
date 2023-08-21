@@ -22,8 +22,9 @@ In 2015 I decided to start my startup with a coworker, we called it DevBranding,
 Open Hack Nights 👩🏻‍💻
 ------
 
-I've always consider myself a community person, a leader, someone destined to guide people to make the best of themselves, pretty much a people helper. 🤝
+I've always consider myself a community person, a leader, someone destined to guide people to make the best of themselves, pretty much a people helper 🤝, so we decided to start a community of entrepreneurs, following the guide of Fuck Up Nights, Epic Queen and other startups based in networking. What was different with us? Open hack would be Open to everyone, allowing 5 people first comes first serve to give a presentation about their startup 🦾, project 📚 or just an idea 💡 they thought would be good so the rest of the community gives feedback, opinions or even show interest in joining if possible to the project 👔.  
 
-Headings are cool
-======
+We did Open Hack Nights as a first step for every entrepreneur to show up and join the community, hosting most of the events in different universities in Puebla City who would join and invite their students to present their ideas, do some networking and chill with pizza and drinks. 
+
+
 

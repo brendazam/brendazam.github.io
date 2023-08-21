@@ -12,7 +12,7 @@ redirect_from:
 Technology is the new magic of the stories.🔮 Create things out of nowhere, being able to create robotics, medicines, essays and now even music, novels or whatever we can possibily think. I felt inspired by technology back in 2014, when I joined my first job at the streaming company Ibero Live 📹. 
 
 
-#The start of my entreneurship 👾
+The start of my entreneurship 👾
 ------
 Worked in Ibero live for over a year with amazing people who taught me how easy it was to reach technology, specifically in this case web design and streaming. Being in Mexico studying a career in Communications I thought technology was not my path, since I consider myself a very creative, subjective and, well, communication's focused person 🙌🏼. My first mentor then thought me about digital marketing and the importance of personal branding, teaching me how to stand out, I was hooked.
 

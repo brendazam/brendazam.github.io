@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "👋🏼 Hello there! Thanks for visiting my website, feel free to reach out!"
+title: "Welcome to Brenda Zambrano"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+👋🏼 Hello there! Thanks for visiting my website, feel free to reach out!
+=================================================================================================
 
 ![image of festival](/images/computer.jpg){: .align-right width="300px"}
 📊 I'm an E-Business Analyst with a master's degree in E-Business and Innovation from Lancaster University, where I specialized in creating innovative solutions that improve information systems and enhance the customer experience.

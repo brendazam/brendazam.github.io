@@ -1,6 +1,6 @@
 ---
 title: "When Was the Golden Age of Video Games?"
-excerpt: "Use joins and set theory to discover the best years for video games! <br/><img src='/images/videogame.jpeg'>"
+excerpt: "Use joins and set theory to discover the best years for video games! <br/><img src='/images/videogame.jpeg'{: .align-center width="400px"}>"
 collection: portfolio
 ---
 

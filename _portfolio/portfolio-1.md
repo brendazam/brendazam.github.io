@@ -8,4 +8,6 @@ In this project, I analyze video game critic and user scores as well as sales da
 
 My search will involve joining datasets and comparing results with set theory. I also filtered, grouped, and ordered data. 
 
-This project was made by Data Camp [DataCamp](https://app.datacamp.com/learn/projects/1413 "Data Camp2")
+This project was made by [DataCamp](https://app.datacamp.com/learn/projects/1413 "Data Camp2")
+
+![datacamp logo](/images/data_camp.png)

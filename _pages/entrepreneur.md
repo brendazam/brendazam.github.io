@@ -11,9 +11,9 @@ redirect_from:
 ![profile](/images/profile1.jpeg){: .align-right width="300px"}
 Technology is the new magic of the stories.🔮 Create things out of nowhere, being able to create robotics, medicines, essays and now even music, novels or whatever we can possibily think. I felt inspired by technology back in 2014, when I joined my first job at the streaming company Ibero Live 📹. 
 
-The start of my entreneurship 👾 
+The start of my entreneurship 👾 ![profile](/images/ibero_live1.jpeg){: .align-left width="300px"}
 ------
-Worked in Ibero live for over a year with amazing people who taught me how easy it was to reach technology, specifically in this case web design and streaming. Being in Mexico studying a career in Communications I thought technology was not my path, since I consider myself a very creative, subjective and, well, communication's focused person 🙌🏼. ![profile](/images/ibero_live1.jpeg){: .align-right width="300px"} My first mentor then thought me about digital marketing and the importance of personal branding, teaching me how to stand out, I was hooked.
+Worked in Ibero live for over a year with amazing people who taught me how easy it was to reach technology, specifically in this case web design and streaming. Being in Mexico studying a career in Communications I thought technology was not my path, since I consider myself a very creative, subjective and, well, communication's focused person 🙌🏼. My first mentor then thought me about digital marketing and the importance of personal branding, teaching me how to stand out, I was hooked.
 
 In 2015 I decided to start my startup with a coworker, we called it DevBranding, joining our university's incubator for small companies for a period of 6 months 🐣. DevBranding main focus was to support entrepreneurs like us, who had no technical skills, to create a personal branding online. We created videos and a platform were we would upload content on how to create personal branding, but we still needed to attract people in the real world.
 
@@ -25,7 +25,7 @@ I've always consider myself a community person, a leader, someone destined to gu
 We did Open Hack Nights as a first step for every entrepreneur to show up and join the community, hosting most of the events in different universities in Puebla City who would join and invite their students to present their ideas, do some networking and chill with pizza 🍕 and drinks. We kept it going for almost 3 years, from 2015 to 2017, expanding to 3 different cities in Mexico and having more than 500 people in our community 📣. 
 
 
-Evolution of DevBranding to Setih ❮ ❯ ![profile](/images/setih1.jpeg){: .align-right width="300px"}
+Evolution of DevBranding to Setih ❮ ❯ ![profile](/images/setih1.jpeg){: .align-left width="300px"}
 ------
 
 During the process of stablishing our startup, we got the support of a mentor who was part of a education startup that was part of YCombinator in Sillicon Valley, the startup Platzi was the pioneer of coding education for Latinamerica, offering courses to learn back-end, front-end and digital marketing in spanish online. We were very lucky, I even provided several talks in the platform about personal branding, and one of the advices of our mentors was "it all starts with the name". We decided to change the vision of DevBranding to provide more support in the coding process, and with that we decided to change our name to Setih. 

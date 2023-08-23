@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+![profile](/images/profile1.jpeg){: .align-right width="300px"}
 Technology is the new magic of the stories.🔮 Create things out of nowhere, being able to create robotics, medicines, essays and now even music, novels or whatever we can possibily think. I felt inspired by technology back in 2014, when I joined my first job at the streaming company Ibero Live 📹. 
-
 
 The start of my entreneurship 👾
 ------

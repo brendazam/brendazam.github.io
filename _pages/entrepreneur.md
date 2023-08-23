@@ -11,7 +11,7 @@ redirect_from:
 ![profile](/images/profile1.jpeg){: .align-right width="300px"}
 Technology is the new magic of the stories.🔮 Create things out of nowhere, being able to create robotics, medicines, essays and now even music, novels or whatever we can possibily think. I felt inspired by technology back in 2014, when I joined my first job at the streaming company Ibero Live 📹. 
 
-The start of my entreneurship 👾 ![profile](/images/ibero_live1.jpeg){: .align-left width="300px"}
+The start of my entreneurship 👾 
 ------
 Worked in Ibero live for over a year with amazing people who taught me how easy it was to reach technology, specifically in this case web design and streaming. Being in Mexico studying a career in Communications I thought technology was not my path, since I consider myself a very creative, subjective and, well, communication's focused person 🙌🏼. My first mentor then thought me about digital marketing and the importance of personal branding, teaching me how to stand out, I was hooked.
 
@@ -28,7 +28,7 @@ We did Open Hack Nights as a first step for every entrepreneur to show up and jo
 Evolution of DevBranding to Setih ❮ ❯ ![profile](/images/setih1.jpeg){: .align-left width="300px"}
 ------
 
-During the process of stablishing our startup, we got the support of a mentor who was part of a education startup that was part of YCombinator in Sillicon Valley, the startup Platzi was the pioneer of coding education for Latinamerica, offering courses to learn back-end, front-end and digital marketing in spanish online. We were very lucky, I even provided several talks in the platform about personal branding, and one of the advices of our mentors was "it all starts with the name". We decided to change the vision of DevBranding to provide more support in the coding process, and with that we decided to change our name to Setih. 
+During the process of stablishing our startup, we got the support of a mentor who was part of a education startup that was part of YCombinator in Sillicon Valley, the startup Platzi was the pioneer of coding education for Latinamerica, offering courses to learn back-end, front-end and digital marketing in spanish online. We were very lucky, I even provided several talks in the platform about personal branding, and one of the advices of our mentors was "it all starts with the name". We decided to change the vision of DevBranding to provide more support in the coding process, and with that we decided to change our name to Setih. ![profile](/images/platzitalk1.jpeg)
 
 
 10 minutes of fame 

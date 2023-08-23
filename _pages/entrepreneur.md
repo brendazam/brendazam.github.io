@@ -21,15 +21,15 @@ In 2015 I decided to start my startup with a coworker, we called it DevBranding,
 Open Hack Nights 👩🏻‍💻 ![profile](/images/openhack1.jpeg){: .align-right width="300px"}
 ------
 
-I've always consider myself a community person, a leader, someone destined to guide people to make the best of themselves, pretty much a people helper 🤝, so we decided to start a community of entrepreneurs, following the guide of Fuck Up Nights, Epic Queen and other startups based in networking. What was different with us? Open hack would be Open to everyone, allowing 5 people first comes first serve to give a presentation about their startup 🦾, project 📚 or just an idea 💡 they thought would be good so the rest of the community gives feedback, opinions or even show interest in joining if possible to the project 👔.  
+I've always consider myself a community person, a leader, someone destined to guide people to make the best of themselves, pretty much a people helper 🤝, so we decided to start a community of entrepreneurs, following the guide of Fuck Up Nights, Epic Queen and other startups based in networking. What was different with us? Open hack would be Open to everyone, allowing 5 people first comes first serve to give a presentation about their startup 🦾, project 📚 or just an idea 💡 they thought would be good so the rest of the community gives feedback, opinions or even show interest in joining if possible to the project 👔.  ![profile](/images/openhack1.jpeg){: .align-right width="300px"}
 
 We did Open Hack Nights as a first step for every entrepreneur to show up and join the community, hosting most of the events in different universities in Puebla City who would join and invite their students to present their ideas, do some networking and chill with pizza 🍕 and drinks. We kept it going for almost 3 years, from 2015 to 2017, expanding to 3 different cities in Mexico and having more than 500 people in our community 📣. 
 
 
-Evolution of DevBranding to Setih ❮ ❯
+Evolution of DevBranding to Setih ❮ ❯ ![profile](/images/setih1.jpeg){: .align-right width="300px"}
 ------
 
-During the process of stablishing our startup, we got the support of a mentor who was part of a education startup that was part of YCombinator in Sillicon Valley, the startup Platzi was the pioneer of coding education for Latinamerica, offering courses to learn back-end, front-end and digital marketing in spanish online. We were very lucky, I even provided several talks in the platform about personal branding, and one of the advices of our mentors was "it all starts with the name". We decided to change the vision of DevBranding to provide more support in the coding process, and with that we decided to change our name to Setih. ![profile](/images/setih1.jpeg){: .align-right width="300px"}
+During the process of stablishing our startup, we got the support of a mentor who was part of a education startup that was part of YCombinator in Sillicon Valley, the startup Platzi was the pioneer of coding education for Latinamerica, offering courses to learn back-end, front-end and digital marketing in spanish online. We were very lucky, I even provided several talks in the platform about personal branding, and one of the advices of our mentors was "it all starts with the name". We decided to change the vision of DevBranding to provide more support in the coding process, and with that we decided to change our name to Setih. 
 
 
 10 minutes of fame 

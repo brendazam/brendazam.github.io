@@ -18,7 +18,7 @@ Worked in Ibero live for over a year with amazing people who taught me how easy 
 ![profile](/images/ibero_live1.jpeg){: .align-right width="300px"}
 In 2015 I decided to start my startup with a coworker, we called it DevBranding, joining our university's incubator for small companies for a period of 6 months 🐣. DevBranding main focus was to support entrepreneurs like us, who had no technical skills, to create a personal branding online. We created videos and a platform were we would upload content on how to create personal branding, but we still needed to attract people in the real world.
 
-Open Hack Nights 👩🏻‍💻 ![profile](/images/openhack1.jpeg){: .align-right width="300px"}
+Open Hack Nights 👩🏻‍💻
 ------
 
 I've always consider myself a community person, a leader, someone destined to guide people to make the best of themselves, pretty much a people helper 🤝, so we decided to start a community of entrepreneurs, following the guide of Fuck Up Nights, Epic Queen and other startups based in networking. What was different with us? Open hack would be Open to everyone, allowing 5 people first comes first serve to give a presentation about their startup 🦾, project 📚 or just an idea 💡 they thought would be good so the rest of the community gives feedback, opinions or even show interest in joining if possible to the project 👔.  ![profile](/images/openhack1.jpeg){: .align-right width="300px"}

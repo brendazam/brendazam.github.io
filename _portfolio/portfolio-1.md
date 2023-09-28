@@ -1,7 +1,6 @@
 ---
 title: "When Was the Golden Age of Video Games?"
-excerpt: "SQL project where I used joins and set theory to discover the best years for video games! 
-<br/><img src='/images/videogame.jpeg'>"
+excerpt: "SQL project where I used joins and set theory to discover the best years for video games! <br/><img src='/images/videogame.jpeg'>"
 collection: portfolio
 ---
 
